@@ -11,7 +11,7 @@ export const App = () => {
     neutral: 0,
     bad: 0,
   });
-
+  // nn
   const handleClick = type => {
     setFeedback(prevFeedback => ({
       ...prevFeedback,
